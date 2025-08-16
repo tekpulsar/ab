@@ -27,8 +27,7 @@ https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
 #EXTINF:-1 group-title="España",Bayres TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 group-title="España",8madrid 
-http://185.189.225.150:85/8madrid/index.m3u8
+
 #EXTINF:-1 group-title="España",Cine Sony 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  group-title="España",Pelis y Popcorn
